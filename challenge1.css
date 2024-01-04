@@ -1,0 +1,66 @@
+main:hover{
+    colour:cyan;
+}
+#box{
+    justify-items: center;
+    padding: 20px;
+    /* box-sizing: border-box; */
+    height: 500px;
+    width: 350px;
+    background-color:hsl(216, 50%, 16%);
+    border-radius: 15px;
+}
+#text{
+    /* margin-left: 20px; */
+    /* background-color:hsl(216, 50%, 16%); */
+    /* background-color: transparent; */
+
+}
+#firstimg{
+    box-sizing: border-box;
+
+    /* border-radius: 50%; */
+    margin: 20px;
+    height:250px;
+    width: 320px;
+    margin: 20px;
+
+}
+#aa{
+    color: aliceblue;
+}
+#ab{color: cyan;
+
+}
+#ac{
+    margin-top: 10px;
+}
+#ad{
+    color: hsl(215, 51%, 70%);
+    padding-left: 200px;
+}
+#af{
+    margin-top: 20px;
+    color: hsl(215, 51%, 70%);
+}
+#ae{
+    color: hsl(215, 51%, 70%);
+}
+/* #line{
+    color: hsl(215, 51%, 70%);
+} */
+#creationof{
+    color: hsl(0, 0%, 100%);
+}
+table{
+}
+
+*:hover{
+    color: red;
+}
+#firstimage,af,creationof:hover {
+    background-color: cyan;
+}
+#box:hover{
+    color: red;
+}
